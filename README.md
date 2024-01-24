@@ -1,6 +1,6 @@
 # Tudományos dokumentumok
 
-A **tudomanyos** repo egy gyűjtemény tudományos PDF-ekről, mind angolul és magyarul is.
+A **tudomanyos** repo egy gyűjtemény tudományos PDF-ekről és dokumentumokról, mind angolul és magyarul is.
 
 **PDF források:**
 - https://www.studiumgenerale.hu/
